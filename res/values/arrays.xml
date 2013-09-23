@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>MOM</item>
+        <item>DAD</item>
+        <item>CAR</item>
+        <item>DOG</item>
+        <item>CAKE</item>
+        <item>CAMP</item>
+        <item>PHONE</item>
+        <item>SHIRT</item>
+        <item>CROWD</item>
+        <item>WOMAN</item>
+        <item>COWBOY</item>
+        <item>LOCKED</item>
+        <item>ANIMAL</item>
+        <item>FLOWER</item>
+        <item>GARDEN</item>
+        <item>MONKEY</item>
+        <item>NEMESIS</item>
+        <item>ANDROID</item>
+        <item>COMPUTER</item>
+        <item>EPIPHANY</item>
+        <item>CHAMPIONS</item>
+        <item>BUTTERFLY</item>
+        <item>ENTHUSIASM</item>
+        <item>CREWMEMBER</item>
+        <item>SERENDIPITY</item>
+        <item>IRRESISTIBLE</item>
+        <item>PROFESSIONAL</item>
+        <item>TRANQUILLITY</item>
+        <item>CERTIFICATION</item>
+    </string-array>
+</resources>

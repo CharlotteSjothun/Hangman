@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="title_activity_hangman">Hangman</string>
+    <string name="title_activity_rules">Hangman regler!</string>
+    <string name="bilde">Bilde</string>
+    <string name="new_word">Nytt ord!</string>
+    <string name="menu">Meny</string>
+    <string name="rules">Regler</string>
+    <string name="start">Start spill!</string>
+    <string name="new_game">Nytt spill!</string>
+    <string name="continue_game">Fortsett spill</string>
+    <string name="exit">Avslutt</string>
+    <string name="total_won">Totalt vunnet:</string>
+    <string name="total_lost">Totalt tapt:</string>
+    <string name="won">Du vant!</string>
+    <string name="lost">Du tapte!</string>
+    <string name="view_won">vunnet:</string>
+    <string name="view_lost">tapt:</string>
+    <string name="word_was">Ordet var:</string>
+    <string name="no_more_words">Ingen flere ord!</string>
+    <string name="no_more_words_message">Du kan starte et nytt spill for å spille mer!</string>
+    <string name="error_file">Feil ved lesing fra fil, oppretter et nytt spill!</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="q">Q</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="norsk1">Æ</string>
+    <string name="norsk2">Ø</string>
+    <string name="norsk3">Å</string>
+    <string name="menu_settings">Innstillinger</string>
+    <string name="ruleText">Hangman dreier seg om å finne fram til riktig ord. 
+        Det eneste du får vite, er hvor mange bokstaver det er i ordet du skal fram til. 
+        Du gjetter på bokstaver som du tror finnes i ordet. 
+        Og for hver riktige bokstav, avdekkes mer og mer av løsningsordet. 
+        Gjetter du feil, dukker det opp en ny strek av det som til slutt blir en mann som 
+        henger i en galge. Derav navnet «Hangman».
+		\nKommer du så langt, har du tapt.
+        </string>
+</resources>

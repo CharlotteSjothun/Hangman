@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal" 
+    android:background="@drawable/background">
+
+    <ImageView 
+        android:id="@+id/headlineRules"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+    	android:layout_marginTop="6dp"
+        android:contentDescription="@string/bilde"
+        android:src="@drawable/hangmanrules"/>
+    
+    <TextView 
+       	android:layout_width="wrap_content"
+       	android:layout_height="wrap_content"
+    	android:layout_marginTop="10dp"
+    	android:layout_marginLeft="10dp"
+    	android:layout_marginRight="10dp"
+       	android:textColor="@color/white"
+       	android:textSize="18sp"
+       	android:textStyle="italic"
+       	android:text="@string/ruleText"/>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_marginTop="20dp"
+    	android:orientation="horizontal"
+    	android:gravity="center">
+        <Button 
+	        android:id="@+id/menu"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginRight="7dp"
+	        android:textColor="@color/dark_blue"
+	        android:background="@drawable/button_green_state"
+	        android:text="@string/menu"
+	        android:onClick="returnToMenu"/>	    
+	    <Button
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+	        android:layout_marginLeft="7dp"
+	        android:textColor="@color/dark_blue"
+	        android:background="@drawable/button_green_state"
+	        android:text="@string/start"
+	        android:onClick="startGame"/>
+    </LinearLayout>
+
+</LinearLayout>

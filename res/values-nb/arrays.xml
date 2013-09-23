@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>BIL</item>
+        <item>BÅT</item>
+        <item>DVD</item>
+        <item>KINO</item>
+        <item>KAKE</item>
+        <item>BORD</item>
+        <item>STOL</item>
+        <item>SOPP</item>
+        <item>DANSE</item>
+        <item>GITAR</item>
+        <item>BØKER</item>
+        <item>SPILL</item>
+        <item>BILDE</item>
+        <item>GLUPSK</item>
+        <item>BLOMST</item>
+        <item>PØLSEVEV</item>
+        <item>HØYTALER</item>
+        <item>TROLLDOM</item>
+        <item>TØYSEKOPP</item>
+        <item>EPLEKJEKK</item>
+        <item>GRANATEPLE</item>
+        <item>DATAMASKIN</item>
+        <item>SOMMERFUGL</item>
+        <item>FORBANNELSE</item>
+        <item>BØTTEBALLETTEN</item>
+    </string-array>
+</resources>
